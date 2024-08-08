@@ -3,7 +3,7 @@
     {
       "enable" : true,
       "item" : "image_toolbar_name",
-      "url" : "https://configlookandfeel.s3.amazonaws.com/Mifel/mifel-200x200.png",
+      "url" : "https://raw.githubusercontent.com/Ceron0503/x3/main/BANBAJIO.png",
       "value" : "image_toolbar"
     }
   ],
